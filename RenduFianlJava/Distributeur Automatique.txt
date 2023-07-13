@@ -1,0 +1,33 @@
+Distributeur Automatique
+Ce programme est une simulation d'un distributeur automatique qui permet aux utilisateurs de gérer leurs comptes bancaires. Il prend en charge les fonctionnalités suivantes :
+
+Créer un compte
+Se connecter
+Terminer la session
+Création du compte
+Lorsque vous sélectionnez l'option "Créer un compte", le programme vous demande de choisir un code PIN à 4 chiffres pour votre compte. Ensuite, il crée un compte chèque et un compte épargne avec un solde initial de 0.00 et un taux d'intérêt de 0.00 pour le compte chèque et 2.00 pour le compte épargne.
+
+Ensuite, vous devez fournir les informations personnelles requises, notamment votre nom, prénom, adresse, code postal et ville. Tous les champs doivent être remplis pour que les informations soient enregistrées avec succès.
+
+Connexion
+Si vous choisissez l'option "Se connecter", le programme vous demande d'entrer votre code PIN. Si le code PIN est correct, vous êtes connecté avec succès et vous accédez au menu principal.
+
+Menu Principal
+Le menu principal offre les fonctionnalités suivantes :
+
+Déposer de l'argent : Vous pouvez déposer de l'argent sur votre compte chèque en entrant le montant à déposer.
+Retirer de l'argent : Vous pouvez retirer de l'argent de votre compte chèque en entrant le montant à retirer.
+Transférer des fonds du compte chèque au compte épargne : Vous pouvez transférer des fonds de votre compte chèque vers votre compte épargne en entrant le montant à transférer.
+Transférer des fonds du compte épargne au compte chèque : Vous pouvez transférer des fonds de votre compte épargne vers votre compte chèque en entrant le montant à transférer.
+Vérifier le solde du compte : Vous pouvez vérifier le solde actuel de votre compte chèque et de votre compte épargne.
+Voir et modifier les informations personnelles : Vous pouvez afficher vos informations personnelles et les modifier si nécessaire.
+Terminer la session : Vous pouvez terminer la session et vous déconnecter.
+Informations Personnelles
+L'option "Voir et modifier les informations personnelles" vous permet d'afficher vos informations personnelles, notamment votre nom, prénom, adresse, code postal et ville. Vous avez également la possibilité de les modifier en entrant les nouvelles valeurs pour chaque champ.
+
+Note : Lorsque vous modifiez vos informations personnelles, les modifications s'appliquent à la fois au compte chèque et au compte épargne.
+
+Terminer la session
+Lorsque vous sélectionnez l'option "Terminer la session", vous êtes déconnecté du programme.
+
+Merci d'utiliser notre distributeur automatique !
